@@ -6,6 +6,9 @@
 #./dsp.sh hit enter to complete docker setup
 #in that given permissions user modfications
 
+cd dockersp
+then chmod +x dsp.sh
+./dsp.sh
 
 # main using centos yum
 # ubuntu apt
