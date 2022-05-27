@@ -12,3 +12,12 @@ then chmod +x dsp.sh
 
 # main using centos yum
 # ubuntu apt
+
+
+
+or 
+
+
+dirctly copy all  enter  
+
+(best way)(
